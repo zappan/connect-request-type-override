@@ -1,0 +1,18 @@
+{
+  "name"          : "connect-request-type-override",
+  "description"   : "Request type override middleware for connect",
+  "version"       : "0.1.0",
+  "main"          : "./lib/requestTypeOverride.js",
+  "repository"    : {
+    "type": "git",
+    "url" : "git@github.com:zappan/connect-request-type-override.git"
+  },
+  "keywords"      : [
+    "connect",
+    "express",
+    "middleware",
+    "json"
+  ],
+  "author"        : "Tomislav Capan <tomislav.capan@gmail.com>",
+  "license"       : "MIT"
+}
